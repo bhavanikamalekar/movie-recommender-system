@@ -20,7 +20,7 @@ A Machine Learning-based web application that recommends movies similar to the o
 ### 🏠 Home Page
 
 <p align="center">
-<img src="images/homepage.jpeg" alt="Home Page" width="900">
+<img src="screenshots/homepage.jpeg" alt="Home Page" width="900">
 </p>
 
 ---
@@ -28,7 +28,7 @@ A Machine Learning-based web application that recommends movies similar to the o
 ### 🎥 Recommendation Page
 
 <p align="center">
-<img src="images/recommendations.jpeg" alt="Recommendation Page" width="900">
+<img src="screenshots/recommendations.jpeg" alt="Recommendation Page" width="900">
 </p>
 
 ---
