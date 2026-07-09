@@ -126,6 +126,22 @@ http://127.0.0.1:5000
 
 ---
 
+## ⚠️ Note
+
+The `similarity.pkl` file is **not included** in this repository because its size exceeds GitHub's file upload limit.
+
+To run the project successfully:
+
+1. Open `Main.ipynb`.
+2. Execute all notebook cells.
+3. This will generate the `similarity.pkl` file.
+4. Place the generated `similarity.pkl` file in the project root directory.
+5. Run the application using:
+
+```bash
+streamlit run app.py
+```
+
 # 🧠 How It Works
 
 1. The user selects a movie.
