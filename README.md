@@ -35,26 +35,33 @@ A Machine Learning-based web application that recommends movies similar to the o
 
 # 🛠️ Tech Stack
 
-### Frontend
+## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- Bootstrap
-
-### Backend
-
+### Programming Language
 - Python
-- Flask
+
+### Framework
+- Streamlit
 
 ### Machine Learning
+- Content-Based Filtering
 
+### Data Processing
 - Pandas
-- NumPy
-- Scikit-learn
+- Pickle
 
-### Dataset
+### APIs
+- OMDb API
 
-- TMDB Movie Dataset
+### Libraries
+- Requests
+- Concurrent Futures (`ThreadPoolExecutor`)
+
+### Development Tools
+- Jupyter Notebook
+- VS Code
+- Git
+- GitHub
 
 ---
 
